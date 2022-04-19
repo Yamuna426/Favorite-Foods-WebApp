@@ -1,0 +1,50 @@
+html{
+    scroll-behavior: smooth;
+}#topbar{
+    background-color: #94618E;
+    overflow: hidden;
+    }
+span a{
+    text-decoration: none;
+    color:black;
+    display: block;
+    text-align: center;
+    float: left;
+    padding: 16px 16px;
+     
+}
+span a:hover{
+    background-color: black;
+    color: white;
+    transition: .5s;
+}
+.menu{
+    font-size: 28;
+    padding: 8px 8px 8px;
+    font-weight: 600;
+}
+a{
+    text-decoration: none;
+    color:black;   
+}
+body{
+    background-color: #F8EEE7;
+}
+#heading{
+    font-size: 20px;
+    padding-left: 23px;
+}
+.food-list{
+    font-size: 20px;
+}
+.food-name{
+    text-align: center;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-style:oblique;
+}
+img{
+    border-radius: 10%;
+    border: 4px solid black;
+}
